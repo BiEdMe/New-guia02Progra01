@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\Consola\bin\Debug\Consola.exe.config
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\Consola\bin\Debug\Consola.exe
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\Consola\bin\Debug\Consola.pdb
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\Consola\obj\Debug\Consola.exe
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\Consola\obj\Debug\Consola.pdb
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache

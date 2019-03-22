@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\ClasePrincipal\bin\Debug\ClasePrincipal.dll
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\ClasePrincipal\bin\Debug\ClasePrincipal.pdb
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\ClasePrincipal\obj\Debug\ClasePrincipal.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\ClasePrincipal\obj\Debug\ClasePrincipal.dll
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\ClasePrincipal\obj\Debug\ClasePrincipal.pdb
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\ClasePrincipal\bin\Debug\Consola.exe
+C:\Users\DELL\Desktop\Tarea\Pgr1_01\ClasePrincipal\bin\Debug\Consola.pdb
